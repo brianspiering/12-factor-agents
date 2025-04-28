@@ -1,4 +1,3 @@
-[← Back to README](https://github.com/humanlayer/12-factor-agents/blob/main/README.md)
 
 ### 2. Own your prompts
 
